@@ -14,7 +14,7 @@ In this program, I demonstrate:
 * [L33tspeak Attack](#l33tspeak-attack) (modification of Mask Attack)
 * [Hybrid Attack](#hybrid-attack)
 
-Notably, I also have a **Phishing Attack**
+Notably, I also have a[ **Phishing Attack**](#phishing-attack)
 For this, I created a fake version of the popular astrology social media app `Co-Star`
 The phished information on the target's name, birthday, and login details is then transformed into possible combinations and alternative spellings
 for a personalised Dictionary Attack.
